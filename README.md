@@ -11,7 +11,7 @@ is a 23c Tutorial Database, with sample Schemas and Datasets under the PDB - FRE
 
 Docker Desktop (Windows,Linux,macOS)
 
-I have tried to build multi-arch images. Please let me know if you run into any issues. Thanks!
+I have tried to build x86/AMD64 image for max compatibility and accessibility. Please let me know if you run into any issues. Thanks!
 
 **[Steps to acquire the image]**
 
